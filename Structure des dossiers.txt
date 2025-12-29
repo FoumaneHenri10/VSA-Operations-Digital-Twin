@@ -1,0 +1,8 @@
+VSA-Operations-Digital-Twin/
+├── 01_Mapping_Analysis/      # Cahier des charges et Schémas de flux
+├── 02_Legacy_System/         # Fichiers Excel/Access simulant l'ancien système
+├── 03_Data_Engineering/      # Scripts Python (ETL/Migration)
+├── 04_Database_Schema/       # Scripts SQL pour le nouveau Datamart
+├── 05_Business_Intelligence/ # Fichier Power BI et Mesures DAX
+├── docs/                     # Documentation technique (Anglais/Français)
+└── .gitignore                # Pour ne pas pousser les fichiers inutiles
